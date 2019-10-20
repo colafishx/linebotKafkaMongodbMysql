@@ -1,0 +1,2 @@
+{"display_name": "R82", "picture_url": "https://profile.line-scdn.net/0hq0vscgw6Lh9LCgU7205RSHdPIHI8JChXM2Q1Lm1eJCcxaG4ZIDhpLGdeJ3syMztLfjsyej1fcShg", "status_message": "ZIMA BLUE", "user_id": "Ud23427619a8d0de9734e993431a4fab3"}
+{"display_name": "R82", "picture_url": "https://profile.line-scdn.net/0hq0vscgw6Lh9LCgU7205RSHdPIHI8JChXM2Q1Lm1eJCcxaG4ZIDhpLGdeJ3syMztLfjsyej1fcShg", "status_message": "ZIMA BLUE", "user_id": "Ud23427619a8d0de9734e993431a4fab3"}
