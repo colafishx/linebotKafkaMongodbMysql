@@ -55,8 +55,8 @@ services:
     ports:
       - "3307:3306"
     environment:
-      - MYSQL_DATABASE:test
-      - MYSQL_ROOT_PASSWORD:iii
+         MYSQL_DATABASE: test
+         MYSQL_ROOT_PASSWORD: iii
     volumes:
       - ./mysql_db/mysql_data:/var/lib/mysql
       - ./mysql_db/mysql_init:/docker-entrypoint-initdb.d/
@@ -72,4 +72,4 @@ services:
       - jupyter
     ports:
       - "4042:4042"
-    command: autossh -M 0 -R colafishx.serveo.net:80:jupyter:5000 -o StrictHostKeyChecking=no serveo.net
+    command: autossh -M 0 -R richardchen731031.serveo.net:80:jupyter:5000 -o StrictHostKeyChecking=no serveo.net

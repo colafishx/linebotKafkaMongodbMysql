@@ -1,4 +1,5 @@
 FROM ccwei1993/jupyter
-RUN pip install Flask==0.12 requests line-bot-sdk PyMYSQL
+RUN pip install -U Flask
+RUN pip install requests line-bot-sdk PyMYSQL
 RUN pip install pandas
 RUN pip install kafka-python
